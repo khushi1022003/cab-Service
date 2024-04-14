@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/Taxi">
+  <Resource auth="Container" defaultAutoCommit="false" defaultTransactionIsolation="READ_COMMITTED" driverClassName="com.mysql.cj.jdbc.Driver" maxIdle="300" maxTotal="100" maxWaitMillis="10000" name="jdbc/Taxi" password="root" type="javax.sql.DataSource" url="jdbc:mysql://localhost:3306/taxi" username="root"/>
+</Context>

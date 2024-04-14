@@ -1,0 +1,10 @@
+entity\OrderTest.class
+utils\PasswordEncoderTest.class
+utils\DataValidatorTest.class
+entity\CarTest.class
+utils\PriceCalculatorTest.class
+command\LogoutCommandTest.class
+command\CommandContainerTest.class
+entity\AccountTest.class
+command\ChangeLanguageCommandTest.class
+command\NoCommandTest.class
